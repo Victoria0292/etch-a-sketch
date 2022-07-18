@@ -53,7 +53,7 @@ function resetBoard() {
     squares.forEach((div) => div.style.backgroundColor = 'white');
 }
 
-//click on and off the board so the color doesn't follow
+//click on and off the board so the color does not follow
 document.querySelector('body').addEventListener('click', () => {
     click = !click;
 })
