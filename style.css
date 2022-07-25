@@ -36,7 +36,7 @@
 .title {
     display: flex;
     justify-content: center;
-    color: hotpink;
+    color: rgb(253, 253, 253);
 }
 
 .buttons {
