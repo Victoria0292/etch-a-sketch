@@ -4,7 +4,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    background: linear-gradient(skyblue, pink, rgb(195, 133, 252));
+    background: linear-gradient(rgb(114, 213, 252), rgb(255, 178, 191), rgb(184, 108, 255));
 }
 
 .board {
